@@ -6,15 +6,17 @@
 
 * Select a randon number (0 - 249), and save the name of the country that is stored in the array at this potision
 * With the country name from the prev step, create a new ajax request: https://restcountries.eu/rest/v2/name/[[country-name]]?fields=borders
+---
+for example: https://restcountries.eu/rest/v2/name/israel?fields=borders
 
-for example:https://restcountries.eu/rest/v2/name/israel?fields=borders
 returns:
 ```json
 [{"borders":["EGY","JOR","LBN","SYR"]}]
 ```
 * For each country in the borders array, get the flag, and show it in the html page. use the link https://restcountries.eu/rest/v2/name/[[country-name]]?fields=flag
-
+---
 for example: https://restcountries.eu/rest/v2/name/EGY?fields=flag
+
 returns:
 ```json
 [{"flag":"https://restcountries.eu/data/egy.svg"}]
