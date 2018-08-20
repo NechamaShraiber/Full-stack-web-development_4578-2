@@ -31,6 +31,44 @@ Initialized empty Git repository in C:/Users/administrator.NB/test/.git/
 
 ls -a     # show all folder content
 ./  ../  .git/
+
+touch first.txt   # create a new fike named first.txt
+
+ls -a    # show all folder content
+./  ../  .git/  first.txt
+
+echo "test1" > first.txt   # write into first.txt file "test1"
+
+cat first.txt  # show first.txt file content
+test1
+
+git status   # command to check untracked / uncommited parts
+On branch master
+No commits yet
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        first.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+git add . # add to stage all changes that are untracked
+
+git status    # command to check untracked / uncommited parts
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   first.txt
+
+git commit -m "first commit"  # record changes to the repository
+[master (root-commit) ba3173a] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 first.txt
+
+git status      # command to check untracked / uncommited parts
+On branch master
+nothing to commit, working tree clean
+
 ```
 # Markdown Syntax
 ## Phrase Emphasis ##
