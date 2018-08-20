@@ -17,7 +17,21 @@ git --help
 git help <"COMMAND">
 ```
 
+## First git project
+```bash
+mkdir test  # craete new folder named test
 
+cd test   # change current path to the folder that we created in prev step
+
+ls -a  # show all folder content
+./  ../
+
+git init  # Initialized empty Git repository 
+Initialized empty Git repository in C:/Users/administrator.NB/test/.git/
+
+ls -a     # show all folder content
+./  ../  .git/
+```
 # Markdown Syntax
 ## Phrase Emphasis ##
 
