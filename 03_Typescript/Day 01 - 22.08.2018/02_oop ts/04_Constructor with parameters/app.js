@@ -4,4 +4,3 @@ console.log(cashier1.printInfo());
 var cashier2 = new Cashier();
 document.write(cashier2.printInfo() + "<br/>");
 console.log(cashier2.printInfo());
-//# sourceMappingURL=app.js.map

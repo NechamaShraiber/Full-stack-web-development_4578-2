@@ -37,4 +37,3 @@ var Cashier = /** @class */ (function () {
     });
     return Cashier;
 }());
-//# sourceMappingURL=cashier.js.map
