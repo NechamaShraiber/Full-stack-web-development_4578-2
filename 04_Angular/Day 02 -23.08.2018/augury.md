@@ -5,7 +5,7 @@ git config --global http.sslVerify "false"
 git clone https://github.com/rangle/augury.git
 cd augury
 npm install
-npm run dev-build
+npm run build:dev
 ```
 * Navigate to chrome://extensions and enable Developer mode.
 * Choose "Load unpacked extension".
