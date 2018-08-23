@@ -32,7 +32,7 @@ npm i --save-dev webpack
 npm i --save-dev webpack-cli 
 ```
 this command will add a new file named `package-lock.json`, and a new folder named `node_modules` that contains all the pkg's code. 
----
+   
 the `package.json` file has been changed by this command, and saves the name of the new installed pkg:
 ```json
 {
@@ -62,18 +62,18 @@ the `package.json` file has been changed by this command, and saves the name of 
 ```bash
 mkdir src dist
 ```
-* Add to app/src a new file, named `clac.js`, with the following content:
+* Add to `app/src` a new file, named `calc.js`, with the following content:
 ```javascript
 export function add(n1,n2){
     return n1+n2;
 }
 ```
-* Add to app/src a new file, named `app.js`, with the following content:
+* Add to `app/src` a new file, named `app.js`, with the following content:
 ```javascript
-import {add} from './clac.js';
+import {add} from './calc.js';
 document.write("import + export worked!!! "+add(1,2));
 ```
-* Add to app/dist a new file, named `index.html`, with the following content:
+* Add to `app/dist` a new file, named `index.html`, with the following content:
 ```html
 <!doctype html>
 <html>
@@ -85,7 +85,7 @@ document.write("import + export worked!!! "+add(1,2));
   </body>
 </html>
 ```
-* Add to app folder a new file named `webpack.config.js` with the following content:
+* Add to `app` folder a new file named `webpack.config.js` with the following content:
 
 ```javascript
 const path = require('path')
@@ -103,8 +103,8 @@ module.exports = {
 ```bash
 npm run build
 ```
-and as output you will get a new file `bundle.js` in the `dist` folder 
-* Run `index.html` in the browser, and get this result in the window:
+and as output you will get a new file `bundle.js` in the `app/dist` folder 
+* Run `app/dist/index.html` in the browser, and get this result in the window:
 ```
-import + export worked!!! 
+import + export worked!!! 3
 ```
