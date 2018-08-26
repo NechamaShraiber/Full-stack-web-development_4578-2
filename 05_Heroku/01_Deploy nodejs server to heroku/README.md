@@ -1,6 +1,5 @@
 # How to deploy an node.js app to Heroku
 
-
 * craete a new account in heroku: 
 https://signup.heroku.com/login
 * download nodeJS 
