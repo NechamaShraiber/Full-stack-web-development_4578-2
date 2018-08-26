@@ -3,7 +3,8 @@
 * Open heroku dashboard with this url:
 https://id.heroku.com/login   
 
-![picture](step1.png)
+![picture](step1.png)   
+
 and login to your account   
 
 * Select a specific app from your app list   
