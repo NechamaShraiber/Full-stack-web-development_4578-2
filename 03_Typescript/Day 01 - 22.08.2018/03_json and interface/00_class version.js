@@ -22,14 +22,11 @@ var jsonObj = {
     userId: 1,
     id: 1,
     title: "sunt",
-    body: "quia",
-    getPost: function () {
-        return "I am json - " + this.title + ":" + this.body;
-    }
+    body: "quia"
 };
 var p1 = new Post();
 var p2 = jsonObj;
-console.log(p1);
-console.log(p2);
+console.log(p1); //--> { userId: 2, id: 2, title: 'Test', body: 'Bob & Alice' }
+console.log(p2); //--> { userId: 1, id: 1, title: 'sunt', body: 'quia' }
 console.log(p1.getPost()); //--> Test:Bob & Alice
 console.log(p2.getPost()); //--> I am json - sunt:quia
