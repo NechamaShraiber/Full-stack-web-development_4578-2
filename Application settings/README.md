@@ -43,7 +43,7 @@ git config --global http.sslVerify false
 
 
 # Install curl
-* Download [this file](\program files\curl-7.61.0-win64-mingw) to `C:\Program Files` the `curl-7.61.0-win64-mingw` folder
+* Download [this folder](program%20files/curl-7.61.0-win64-mingw) to `C:\Program Files` the `curl-7.61.0-win64-mingw` folder
 * Open the terminal and run this command to add `curl` command to the path:
 ```bash
 set PATH=%path%;C:\Program Files\curl-7.61.0-win64-mingw\bin
