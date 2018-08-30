@@ -10,4 +10,4 @@ Use this url to get all the packages: https://api.npms.io/v2/search/suggestions?
 Use this url to get the amount of downloads for each package: https://api.npmjs.org/downloads/point/2016-02-01:2018-02-08/express
 
 ## Task diagram:
-![picture](diagram.png)
+![picture](Diagram.png)
