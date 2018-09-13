@@ -1,4 +1,4 @@
-# Step to create cecured login in node server
+# Step to create secured login in node server
 
 ## Step 1
 The user sends to the server a new user object:
