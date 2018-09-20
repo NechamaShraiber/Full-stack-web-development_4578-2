@@ -1,0 +1,12 @@
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\UIL.exe.config
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\obj\Debug\UIL.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\UIL.exe
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\UIL.pdb
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\BLL.dll
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\BOL.dll
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\DAL.dll
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\BLL.pdb
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\BOL.pdb
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\bin\Debug\DAL.pdb
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\obj\Debug\UIL.exe
+C:\Users\jbt\Desktop\Boojk app - open connection\UIL\obj\Debug\UIL.pdb

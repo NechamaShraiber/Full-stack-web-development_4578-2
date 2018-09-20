@@ -1,0 +1,10 @@
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\DAL.dll.config
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\DAL.dll
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\DAL.pdb
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\EntityFramework.dll
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\EntityFramework.xml
+C:\Users\jbt\Desktop\Book app\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jbt\Desktop\Book app\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\jbt\Desktop\Book app\DAL\obj\Debug\DAL.dll
+C:\Users\jbt\Desktop\Book app\DAL\obj\Debug\DAL.pdb
