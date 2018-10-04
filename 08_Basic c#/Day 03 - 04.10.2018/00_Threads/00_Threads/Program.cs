@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace _00_Threads
 {
 
-     
+
     class Program
     {
         static Thread t1 = new Thread(Func1);
@@ -18,10 +14,10 @@ namespace _00_Threads
         static void Func1()
         {
             Console.WriteLine("Func1 START");
-            t2.Suspend();
+            t2.Suspend();  //Suspend (deprecated) - enter t2 to sleep mode
             Thread.Sleep(5000);
             Console.WriteLine("Func1 END");
-            t2.Resume();
+            t2.Resume();  //Resume (deprecated) - exit t2 from sleep mode
         }
 
         static void Func2()

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace _02_Threads
+namespace _03_Threads
 {
     class Program
     {
