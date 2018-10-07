@@ -1,4 +1,0 @@
-C:\Users\jbt\Desktop\Book app\BOL\bin\Debug\BOL.dll
-C:\Users\jbt\Desktop\Book app\BOL\bin\Debug\BOL.pdb
-C:\Users\jbt\Desktop\Book app\BOL\obj\Debug\BOL.dll
-C:\Users\jbt\Desktop\Book app\BOL\obj\Debug\BOL.pdb

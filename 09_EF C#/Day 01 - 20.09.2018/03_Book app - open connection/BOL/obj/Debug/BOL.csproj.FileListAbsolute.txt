@@ -1,5 +1,0 @@
-C:\Users\jbt\Desktop\Boojk app - open connection\BOL\bin\Debug\BOL.dll
-C:\Users\jbt\Desktop\Boojk app - open connection\BOL\bin\Debug\BOL.pdb
-C:\Users\jbt\Desktop\Boojk app - open connection\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\Boojk app - open connection\BOL\obj\Debug\BOL.dll
-C:\Users\jbt\Desktop\Boojk app - open connection\BOL\obj\Debug\BOL.pdb

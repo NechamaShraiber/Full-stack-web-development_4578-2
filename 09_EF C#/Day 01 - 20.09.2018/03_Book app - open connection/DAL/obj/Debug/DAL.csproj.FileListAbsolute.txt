@@ -1,7 +1,0 @@
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\bin\Debug\DAL.dll
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\bin\Debug\DAL.pdb
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\obj\Debug\DAL.dll
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\obj\Debug\DAL.pdb
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\bin\Debug\BOL.dll
-C:\Users\jbt\Desktop\Boojk app - open connection\DAL\bin\Debug\BOL.pdb
