@@ -24,8 +24,8 @@
         * The key of each element is the card content
         * The value of each element is the name of the user that found the pair  
 ### Global Properties
-* List<User>
-* List<Game>
+* `List<User>`
+* `List<Game>`
 
 ### Controllers
 * User controller:
@@ -43,9 +43,9 @@
 * Game controller:
     * Get - get all cards and `CurrentTurn`
     * Put - The client sends a userName and the chosen cards results.
-    The server will update the `Game` object `CurrentTurn` to the other player`s name.   
+    The server will update the `Game` object `CurrentTurn` to the other player's name.   
     If the user managed to choose 2 cards with the same value - we will update the element in the `CardArray` that has the key of this card content - to the current user name.
-    After the update it will check if the game is over (all the elemnt in the `CardArray` contains value), If yes - the winner usrt will get 1 point to the `score` property.
+    After the update it will check if the game is over (all the element in the `CardArray` contains value), If yes - the winner usrt will get 1 point to the `score` property.
 
 ***
 ## WinForms +  Angular
